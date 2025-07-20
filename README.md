@@ -1,6 +1,6 @@
 # 🚀 About Me
 
-# 👋 Hey, I'm Satyam Vishwakarma — aka Satya
+## 👋 Hey, I'm Satyam Vishwakarma — aka Satya
 
 Welcome to my GitHub! I’m a **WordPress Consultant, Blogger, and Digital Strategist**, passionate about building meaningful experiences on the web through open-source, community, and creativity.
 
