@@ -1,6 +1,8 @@
 # 🚀 About Me
 
-With several years in the WordPress ecosystem, I specialize in consulting, content marketing, and community engagement. While not a developer by trade, I actively contribute to WordPress Learn, Marketing, and affiliate marketing initiatives through content and strategy.
+# 👋 Hey, I'm Satyam Vishwakarma — aka Satya
+
+Welcome to my GitHub! I’m a **WordPress Consultant, Blogger, and Digital Strategist**, passionate about building meaningful experiences on the web through open-source, community, and creativity.
 
 Founder of **HelloSatya** and **EYNZone**, and Partnership & Community Manager at **fdmedia** — home to [MH Themes](https://mhthemes.com/), [AAWP](https://getaawp.com/), and [ClickWhale](https://clickwhale.pro/).
 
