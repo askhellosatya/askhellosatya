@@ -1,4 +1,4 @@
-### 🚀 About Me
+# 🚀 About Me
 
 With several years in the WordPress ecosystem, I specialize in consulting, content marketing, and community engagement. While not a developer by trade, I actively contribute to WordPress Learn, Marketing, and affiliate marketing initiatives through content and strategy.
 
@@ -8,7 +8,7 @@ Outside work, I pursue poetry and photography, which inspire my creativity and a
 
 ---
 
-### 🔭 Current Project: QuoteFrameShare
+## 🔭 Current Project: QuoteFrameShare
 
 - **Repo:** [QuoteFrameShare](https://github.com/askhellosatya/quoteframeshare)  
 - **Description:** Lightweight Gutenberg block plugin to add customizable blockquotes with citation, copy-to-clipboard, and social sharing (Facebook, WhatsApp, Telegram, X/Twitter).  
@@ -17,7 +17,7 @@ Outside work, I pursue poetry and photography, which inspire my creativity and a
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
 **Partnership & Community Manager**  
 _[fdmedia GmbH](https://fdmedia.io/)_ — Feb 2025 to Present  
@@ -44,7 +44,7 @@ _Jun 2022 to Present_
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
 **Diploma in Electronics Engineering (Micro)**  
 Govt. Polytechnic Fatehpur, UP — 2021  
@@ -55,7 +55,7 @@ Govt. Polytechnic Fatehpur, UP — 2021
 
 ---
 
-### 🏆 Achievements & Contributions
+## 🏆 Achievements & Contributions
 
 - Puneet Sahalot Memorial Scholarship recipient, [WordCamp Udaipur 2023](https://udaipur.wordcamp.org/2023/puneet-sahalot-memorial-scholarship-winners/)  
 - Contributor to [WordPress 6.5 Core](https://wordpress.org/news/2024/04/regina/) release  
@@ -66,14 +66,14 @@ Govt. Polytechnic Fatehpur, UP — 2021
 
 ---
 
-### 🌱 Open Source & Projects
+## 🌱 Open Source & Projects
 
 - GitHub: [github.com/askhellosatya](https://github.com/askhellosatya)  
 - WordPress Profile: [profiles.wordpress.org/hellosatya](https://profiles.wordpress.org/hellosatya)  
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 - 🌐 Website: [satyamvishwakarma.com](https://satyamvishwakarma.com)
 - 🌐 Bio Link [satyamvishwakarma.link](https://satyamvishwakarma.link/)
@@ -83,6 +83,12 @@ Govt. Polytechnic Fatehpur, UP — 2021
 - 🌟 Bluesky: [bsky.app/profile/satyamvishwakarma.link](https://bsky.app/profile/satyamvishwakarma.link)  
 - 📘 Facebook: [facebook.com/askhellosatya](https://facebook.com/askhellosatya)  
 - 📸 Instagram: [instagram.com/ask_hellosatya](https://instagram.com/ask_hellosatya)  
+
+---
+
+## ⚡ Fun Fact
+
+During a live charity hackathon, I was promoted to Project Manager — a true test of adaptability and leadership!
 
 ---
 
