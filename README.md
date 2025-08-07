@@ -10,12 +10,31 @@ Outside work, I pursue poetry and photography, which inspire my creativity and a
 
 ---
 
-## 🔭 Current Project: QuoteFrameShare
+## 🔭 Current Projects
 
-- **Repo:** [QuoteFrameShare](https://github.com/askhellosatya/quoteframeshare)  
-- **Description:** Lightweight Gutenberg block plugin to add customizable blockquotes with citation, copy-to-clipboard, and social sharing (Facebook, WhatsApp, Telegram, X/Twitter).  
-- **Version:** 3.1.8.11  
-- **Use Case:** Ideal for bloggers, poets, and content creators seeking engaging, shareable quotes.
+### Featured: WP Contributor Photo Gallery
+- **Repository:** [wpcontributorphoto](https://github.com/askhellosatya/wpcontributorphoto)
+- **Latest Release:** v2.0.3
+- **Plugin Type:** WordPress Gallery Plugin
+- **Key Features:** 
+  - Responsive 1-6 column grids
+  - Real-time User ID validation
+  - Copy-to-clipboard shortcuts
+  - Professional admin interface
+- **Target Audience:** WordPress.org photo contributors and photographers
+- **Tech Stack:** PHP, WordPress API, CSS Grid
+
+### Active: QuoteFrameShare
+- **Repository:** [quoteframeshare](https://github.com/askhellosatya/quoteframeshare)
+- **Latest Release:** v3.2.0.1
+- **Plugin Type:** Gutenberg Block Plugin
+- **Key Features:**
+  - Customizable blockquotes with citations
+  - Social sharing (Facebook, WhatsApp, Telegram, X)
+  - Copy-to-clipboard functionality
+  - Font Awesome integration
+- **Target Audience:** Bloggers, poets, and content creators
+- **Tech Stack:** JavaScript, React, Gutenberg API
 
 ---
 
