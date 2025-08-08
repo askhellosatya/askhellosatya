@@ -13,7 +13,7 @@ Outside work, I pursue poetry and photography, which inspire my creativity and a
 ## 🔭 Current Projects
 
 ### Featured: Contributor Photo Gallery
-- **Repository:** [contributorphotogallery](https://github.com/askhellosatya/contributorphotogallery)
+- **Repository:** [contributor-photo-gallery](https://github.com/askhellosatya/contributor-photo-gallery)
 - **Latest Release:** v2.0.3
 - **Plugin Type:** Contributor Gallery Plugin for WordPress
 - **Key Features:** 
