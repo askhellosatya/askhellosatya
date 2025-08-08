@@ -12,10 +12,10 @@ Outside work, I pursue poetry and photography, which inspire my creativity and a
 
 ## 🔭 Current Projects
 
-### Featured: WP Contributor Photo Gallery
-- **Repository:** [wpcontributorphoto](https://github.com/askhellosatya/wpcontributorphoto)
+### Featured: Contributor Photo Gallery
+- **Repository:** [contributorphotogallery](https://github.com/askhellosatya/contributorphotogallery)
 - **Latest Release:** v2.0.3
-- **Plugin Type:** WordPress Gallery Plugin
+- **Plugin Type:** Contributor Gallery Plugin for WordPress
 - **Key Features:** 
   - Responsive 1-6 column grids
   - Real-time User ID validation
