@@ -14,13 +14,14 @@ Outside work, I pursue poetry and photography, which inspire my creativity and a
 
 ### Featured: Contributor Photo Gallery
 - **Repository:** [contributor-photo-gallery](https://github.com/askhellosatya/contributor-photo-gallery)
-- **Latest Release:** v2.0.3
+- **Latest Release:** v2.5.0
 - **Plugin Type:** Contributor Gallery Plugin for WordPress
 - **Key Features:** 
   - Responsive 1-6 column grids
   - Real-time User ID validation
   - Copy-to-clipboard shortcuts
   - Professional admin interface
+  - Card Style and customizations
 - **Target Audience:** WordPress.org photo contributors and photographers
 - **Tech Stack:** PHP, WordPress API, CSS Grid
 
